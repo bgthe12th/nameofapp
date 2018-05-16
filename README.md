@@ -1,7 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This README will document important steps that are required to run this app properly. I am a Rails developer and this app will consist of
+all of the elements of a consumer-ready eCommerce website. 
 
 Things you may want to cover:
 
